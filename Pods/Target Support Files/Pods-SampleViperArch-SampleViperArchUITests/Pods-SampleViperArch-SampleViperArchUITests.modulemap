@@ -1,0 +1,6 @@
+framework module Pods_SampleViperArch_SampleViperArchUITests {
+  umbrella header "Pods-SampleViperArch-SampleViperArchUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
